@@ -1,7 +1,3 @@
-// Soumyadeep Manna
-// 10800320071
-// 6-5-2021
-
 #include <stdio.h>
 #include <stdlib.h>
 
